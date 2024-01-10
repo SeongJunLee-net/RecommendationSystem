@@ -7,7 +7,7 @@ This is the repository for your capstone project in 2024. My team decided to dev
 
 💡 Additionally, some of the Jupyter notebooks in the repository are available in the 
 
-[Personalized Recommendation System with Python, by Lim Il].
+[Personalized Recommendation System with Python, by Lim Il].<br>
 https://www.yes24.com/Product/Goods/110328538
 
 Of course, I also summarized the basic recommendation system knowledge in the book, so I hope you enjoy it!
